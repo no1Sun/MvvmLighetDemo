@@ -17,8 +17,7 @@
                     <Command:EventToCommand Command="{Binding relayCommand}"/>
                 </i:EventTrigger>
             </i:Interaction.Triggers>
-        </Button>        
-        <Button Content="Open Sub Window" Click="btnOpenSubWindow"
-                   
+        </Button>
+        <Button Content="Open Sub Window" Click="btnOpenSubWindow"/>
     </StackPanel>
 </Window>
